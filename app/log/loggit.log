@@ -1,0 +1,91 @@
+{"timestamp": "2022-05-23T11:39:46+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T11:41:14+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T11:42:00+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T11:43:08+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T11:43:08+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hej"}
+{"timestamp": "2022-05-23T11:43:47+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T11:43:47+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 function () __LF____LEFTBRACE____LF__    .dependents$register()__LF__    if (.invalidated || .running) __LEFTBRACE____LF__        ..stacktraceoff..(self$.updateValue())__LF__    __RIGHTBRACE____LF__    if (.error) __LEFTBRACE____LF__        stop(.value)__LF__    __RIGHTBRACE____LF__    if (.visible) __LF__        .value__LF__    else invisible(.value)__LF____RIGHTBRACE__"}
+{"timestamp": "2022-05-23T12:04:07+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:04:07+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:05:09+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:05:09+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:07:25+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:07:25+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:09:20+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:09:20+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:17:13+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:17:13+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:17:55+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:17:55+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:19:19+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:19:19+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:20:28+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:20:28+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:21:37+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:21:37+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:45:30+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:45:30+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:48:00+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:48:00+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:49:12+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:49:12+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T12:49:17+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T12:49:17+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T13:40:26+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T13:40:26+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T13:42:47+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T13:42:47+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-23T15:08:33+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-23T15:08:33+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-24T10:09:12+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-24T10:09:12+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-24T10:09:27+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-24T10:09:27+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-24T10:14:39+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-24T10:14:39+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-24T10:15:17+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-24T10:15:17+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-31T10:23:02+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-31T10:23:02+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-31T13:24:16+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-31T13:24:16+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-31T13:24:28+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-31T13:24:28+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-31T13:25:29+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-31T13:25:29+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-31T13:39:11+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-31T13:39:11+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-31T16:04:14+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-31T16:04:14+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-05-31T16:05:10+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-05-31T16:05:10+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-06-01T10:16:57+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-06-01T10:16:57+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-06-01T10:23:58+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-06-01T10:23:58+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-06-01T10:31:18+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-06-01T10:31:18+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-06-01T10:36:13+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-06-01T10:36:13+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-06-01T11:44:04+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-06-01T11:44:04+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-06-03T10:58:46+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-06-03T10:58:46+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2022-06-03T10:58:48+0200", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2022-06-03T10:58:48+0200", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-02-27T16:28:45+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-02-27T16:28:45+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-02-27T16:40:39+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-02-27T16:40:39+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-02-27T16:40:47+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-02-27T16:40:47+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-02-27T16:43:26+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-02-27T16:43:26+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-02-28T12:07:24+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-02-28T12:07:24+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-02-28T12:44:09+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-02-28T12:44:09+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-02-28T20:57:42+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-02-28T20:57:42+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
+{"timestamp": "2023-03-01T10:19:04+0100", "log_lvl": "INFO", "log_msg": "app has started", "app": "start"}
+{"timestamp": "2023-03-01T10:19:04+0100", "log_lvl": "INFO", "log_msg": "2022-05-23 hi"}
