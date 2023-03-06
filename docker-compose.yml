@@ -9,9 +9,10 @@ services:
           #restart: always
       volumes:
         - dbmysql:/var/lib/mysql
+        - ./sql-script:/docker-entrypoint-initdb.d #adding empty database
         - ./conf/my.cnf:/etc/mysql/my.cnf
       environment:
-        - MYSQL_ROOT_PASSWORD=ingimar
+        - MYSQL_ROOT_PASSWORD=supersecret
       env_file:
         - ./.db.env
   app:
