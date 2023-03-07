@@ -2,7 +2,7 @@
 Testing, shiny app in a docker-container
 
 ## using quay.io/  for storing docker-images
-- ``` https://quay.io/ ```
+- URL: ``` https://quay.io/ ```
 - repos: ``` https://quay.io/repository/ingimar/shiny?tab=tags ```
 
 1. docker login quay.io
