@@ -21,3 +21,12 @@ where 'x' and 'y' needs to be replaced
 -  ``` make docker-db ```
 -  ``` make docker-app ```
 
+
+### startup.sh
+
+```
+#!/bin/bash
+make docker-db&
+sleep 5s
+make docker-app&
+```   
