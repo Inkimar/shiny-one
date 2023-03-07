@@ -10,9 +10,11 @@ Testing, shiny app in a docker-container
 
 
 # Prod- and test-environment
-1. machine : nrm-shiny-esbase 
-2. user: research
-3. dir: ```/home/research/repositories/shiny-one```
+1. machine : x
+2. user: y
+3. dir: ```/home/y/repositories/shiny-one```
+
+where 'x' and 'y' needs to be replaced
 
 ## Starting up.
 2 instances need to be started up (1) the database and (2) the shiny 
