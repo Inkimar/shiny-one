@@ -18,6 +18,6 @@ where 'x' and 'y' needs to be replaced
 
 ## Starting up.
 2 instances need to be started up (1) the database and (2) the shiny 
--  ```make docker-db```
--  ```docker-app```
+-  ``` make docker-db ```
+-  ``` make docker-app ```
 
