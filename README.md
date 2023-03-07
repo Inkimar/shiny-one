@@ -1,3 +1,10 @@
+# pre-req.
+## Export the schema (with no data)
+- docker exec -i mysql bash -l -c "mysqldump -uroot -psupersecret --no-data mgg2" > ./mgg2-schema_no-data.sql 
+
+## Export the Lookup-tables.
+- docker exec -i mysql bash -l -c "mysqldump -u root -psupersecret mgg2 catalog species discovery project --skip-comments --no-create-info --compact" > ./testing.sql 
+
 # shiny-one application
 Testing, shiny app in a docker-container
 
