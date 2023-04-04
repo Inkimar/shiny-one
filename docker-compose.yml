@@ -4,9 +4,9 @@ services:
   db5:
       image: mysql:5.7.30 
       container_name: mysql
-      ports:
-        - "3306:3306"
-          #restart: always
+        #ports:
+        # - "3306:3306"
+        #restart: always
       volumes:
         - dbmysql:/var/lib/mysql
         - ./sql-script:/docker-entrypoint-initdb.d #adding empty database
@@ -16,7 +16,8 @@ services:
       env_file:
         - ./.db.env
   app:
-      image: nrm-shiny:v3
+      image: quay.io/ingimar/shiny:latest
+        #image: nrm-shiny:v3
       container_name: bulk
       ports:
         - "8080:8080"
