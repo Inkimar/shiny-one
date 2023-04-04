@@ -15,5 +15,7 @@ docker-push:
 mysql-login:
 	    docker exec -it mysql bash
 
+up:
+	docker-compose up -d
 
-	
+
